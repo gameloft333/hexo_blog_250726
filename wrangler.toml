@@ -1,0 +1,8 @@
+name = "hexo-blog"
+compatibility_date = "2024-07-26"
+
+[env.production]
+name = "hexo-blog-production"
+
+# Pages configuration
+pages_build_output_dir = "public"
