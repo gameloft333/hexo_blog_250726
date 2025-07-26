@@ -141,3 +141,20 @@ seo:
   keywords: true
   # 自动生成描述
   description: true
+
+#---------------------------
+# 关于页面配置
+# About Page Configuration
+#---------------------------
+about:
+  enable: true
+  banner_img: /img/default.png
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+  avatar: /img/avatar.png
+  name: "Gens Studio"
+  intro: "专注技术分享与工具推荐"
+  icons:
+    - { class: "iconfont icon-github-fill", link: "https://github.com/", tip: "GitHub" }
+    - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
