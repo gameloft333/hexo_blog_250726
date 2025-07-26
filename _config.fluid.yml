@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -104,3 +104,16 @@ deploy:
   type: 'git'
   repo: 'git@github.com:gameloft333/hexo_blog_250726.git'
   branch: 'main'
+
+post:
+  comments:
+    enable: true
+    type: utterances
+
+utterances:
+  repo: gameloft333/hexo_blog_250726
+  issue_term: title
+  label: utterances
+  theme: github-light
+  theme_dark: github-dark
+  crossorigin: anonymous    
