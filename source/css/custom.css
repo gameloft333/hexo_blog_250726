@@ -1,0 +1,87 @@
+/* Gens Studio 自定义样式 */
+
+/* Footer 品牌样式 */
+.footer-brand {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #666;
+}
+
+.footer-brand strong {
+  color: #2c3e50;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.footer-separator {
+  margin: 0 10px;
+  color: #bdc3c7;
+}
+
+/* .footer-links 样式已移除，因为不再显示技术栈信息 */
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .footer-brand {
+    text-align: center;
+    font-size: 13px;
+  }
+  
+  .footer-brand strong {
+    font-size: 15px;
+  }
+  
+  .footer-links {
+    text-align: center;
+    font-size: 11px;
+  }
+}
+
+/* 版权信息样式优化 */
+.post-copyright {
+  background: #f8f9fa;
+  border-left: 4px solid #3498db;
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.post-copyright .copyright-author {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.post-copyright .copyright-link {
+  color: #3498db;
+  word-break: break-all;
+}
+
+/* 品牌色彩主题 */
+:root {
+  --brand-primary: #3498db;
+  --brand-secondary: #2c3e50;
+  --brand-accent: #e74c3c;
+}
+
+/* 导航栏品牌样式 */
+.navbar-brand {
+  font-weight: 700;
+  color: var(--brand-secondary) !important;
+}
+
+/* 链接悬停效果 */
+a:hover {
+  color: var(--brand-primary) !important;
+  transition: color 0.3s ease;
+}
+
+/* 按钮样式统一 */
+.btn-primary {
+  background-color: var(--brand-primary);
+  border-color: var(--brand-primary);
+}
+
+.btn-primary:hover {
+  background-color: #2980b9;
+  border-color: #2980b9;
+}

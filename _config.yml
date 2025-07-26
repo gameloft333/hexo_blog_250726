@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: Gens
-language: en
-timezone: ''
+title: Gens Studio
+subtitle: '技术分享与工具推荐'
+description: 'Gens Studio - 专注于技术教程、工具推荐和实用资源分享的个人博客，提供高质量的技术内容和实用工具介绍'
+keywords: 技术博客,工具推荐,教程分享,Gens Studio,免费工具,技术教程,实用资源
+author: Gens Studio
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://gameloft333.github.io/hexo_blog_250726
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,3 +105,26 @@ deploy:
   type: 'git'
   repo: 'git@github.com:gameloft333/hexo_blog_250726.git'
   branch: 'main'
+
+# SEO优化插件配置
+# SEO Optimization Plugins Configuration
+
+# Sitemap 网站地图
+# 需要安装: npm install hexo-generator-sitemap --save
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true
+
+# Feed RSS订阅
+# 需要安装: npm install hexo-generator-feed --save
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  autodiscovery: true
