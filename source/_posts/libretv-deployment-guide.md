@@ -16,7 +16,7 @@ index_img: https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb
 cover: https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80
 ---
 
-![视频会员费用对比](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+![](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
 ## 你是不是也被这些问题困扰？
 
@@ -49,7 +49,7 @@ cover: https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixlib=rb-4.0
 - **📱 全平台**：手机、电脑、平板都能用
 - **🛡️ 安全稳定**：开源项目，代码透明
 
-![LibreTV界面展示](https://github.com/LibreSpark/LibreTV/blob/main/image/nomedia.png?raw=true)
+![](https://github.com/LibreSpark/LibreTV/blob/main/image/nomedia.png?raw=true)
 
 你可能会问：**这么好的东西，会不会很复杂？**
 
@@ -67,7 +67,7 @@ cover: https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixlib=rb-4.0
 
 **就这么简单！** 连一行代码都不用写。
 
-![Fork项目](https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+![](https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
 
 ### 第2步：免费部署 ☁️
 
@@ -105,7 +105,7 @@ cover: https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixlib=rb-4.0
 | 七七资源 | 高清画质，稳定性好 |
 | 饭团影视 | 热门剧集，及时更新 |
 
-![LibreTV设置界面](https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+![](https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
 
 ## 🎯 LibreTV的5大优势
 
@@ -139,7 +139,7 @@ GitHub和Cloudflare都有免费额度，足够个人使用，永久免费。
 
 可以设置自动同步官方更新，你的网站永远是最新版本。
 
-![功能展示](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+![](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
 
 ## 📊 省钱账单算一算
 
@@ -171,7 +171,7 @@ GitHub和Cloudflare都有免费额度，足够个人使用，永久免费。
 
 LibreTV完美适配手机端，随时随地追剧无压力。
 
-![成功部署](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
+![](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
 
 ## 🤔 常见问题解答
 
